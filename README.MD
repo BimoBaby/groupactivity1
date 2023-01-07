@@ -1,4 +1,4 @@
-# Project Title 
+# Project Group  Act 1 - 
 
 new
 
@@ -21,7 +21,7 @@ new
 new
 
 
-## Help
+## FAQ by Janela
 
 new
 
