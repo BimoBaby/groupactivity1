@@ -27,6 +27,8 @@ new
 
 ## Authors
 
+Jerwyn
+
 <<<<<<< HEAD
 RA Manila
 James Galo
