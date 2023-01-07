@@ -23,7 +23,12 @@ new
 
 ## FAQ by Janela
 
-new
+**Q: I want to prevent robots from indexing my custom error pages by
+setting the robots meta tag in the HTML head to "noindex".**
+
+A: There is no need to. Customer returns the correct HTTP
+status codes (403 and 404). This will prevent robots from indexing the
+error pages.
 
 ## Authors
 
