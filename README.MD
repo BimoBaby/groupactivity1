@@ -1,57 +1,50 @@
 # Project Group  Act 1 - 
 
-Simple overview of use/purpose.
+new project
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+new
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+new
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+new
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+new
+
 
 ## FAQ by Janela
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+new
 
 ## Authors
 
+<<<<<<< HEAD
 RA Manila
 James Galo
 Jerwin Cubao
 Jonnel Gabatan
 Janela Daculong
+=======
+new
+>>>>>>> 6b3659ea3d24919747061b24866e28cf1880ee0c
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+new
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+new
 
 ## Acknowledgments
-Inspiration, code snippets, etc
+
+new
