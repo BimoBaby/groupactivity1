@@ -1,6 +1,6 @@
 # Project Group  Act 1 - 
 
-new
+new project
 
 ## Description
 
