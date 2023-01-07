@@ -28,6 +28,7 @@ new
 ## Authors
 
 Jerwyn
+Jonnel
 
 <<<<<<< HEAD
 RA Manila
