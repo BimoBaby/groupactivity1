@@ -1,56 +1,42 @@
 # Project Title 
 
-Simple overview of use/purpose.
+new
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+new
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+new
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+new
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+new
+
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+new
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie 
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+new
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+new
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+new
 
 ## Acknowledgments
-Inspiration, code snippets, etc
+
+new
